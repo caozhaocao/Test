@@ -12,3 +12,5 @@
 6.github加一行，git Pull本地后 观察是否有冲突
 
 7.加一个github在caozhao2017java,看caozhaocao的变化
+
+8.本地仓库加add，push到github上
