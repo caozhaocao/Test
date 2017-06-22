@@ -14,3 +14,5 @@
 7.加一个github在caozhao2017java,看caozhaocao的变化
 
 8.本地仓库加add，push到github上
+
+9.本次仓库加，push到2017Java然后pull request caozhaocao的github
