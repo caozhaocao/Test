@@ -10,3 +10,5 @@
 5.在github 加一行 然后删掉1，看本地有bug冲突没
 
 6.github加一行，git Pull本地后 观察是否有冲突
+
+7.加一个github在caozhao2017java,看caozhaocao的变化
