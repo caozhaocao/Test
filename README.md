@@ -1,6 +1,6 @@
 
 
-
+1.本地仓库add1然后出现
  
 
 3.在github中添加change
